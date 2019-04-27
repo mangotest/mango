@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro-aleksandr.local",
+    "children" : [ {
+      "name" : "52795@MacBook-Pro-aleksandr.local.main(1)",
+      "children" : [ {
+        "name" : "Beats",
+        "uid" : "96666d577588af5a",
+        "parentUid" : "ca750d7c181cea76f9f4a745933f08b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556378657724,
+          "stop" : 1556378676554,
+          "duration" : 18830
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Apple",
+        "uid" : "3c00748490392894",
+        "parentUid" : "ca750d7c181cea76f9f4a745933f08b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556378636827,
+          "stop" : 1556378657401,
+          "duration" : 20574
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca750d7c181cea76f9f4a745933f08b1"
+    } ],
+    "uid" : "eb0fbb2ccc82dc4305d64fd6dad5989d"
+  } ]
+}

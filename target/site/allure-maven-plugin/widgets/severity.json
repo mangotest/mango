@@ -1,0 +1,21 @@
+[ {
+  "uid" : "96666d577588af5a",
+  "name" : "Beats",
+  "time" : {
+    "start" : 1556378657724,
+    "stop" : 1556378676554,
+    "duration" : 18830
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c00748490392894",
+  "name" : "Apple",
+  "time" : {
+    "start" : 1556378636827,
+    "stop" : 1556378657401,
+    "duration" : 20574
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

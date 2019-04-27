@@ -1,0 +1,206 @@
+{
+  "uid" : "3c00748490392894",
+  "name" : "Apple",
+  "fullName" : "MangoTest.Apple",
+  "historyId" : "c1910245d84c024b2cb72766385d65af",
+  "time" : {
+    "start" : 1556378636827,
+    "stop" : 1556378657401,
+    "duration" : 20574
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Перейти в раздел",
+      "time" : {
+        "start" : 1556378637019,
+        "stop" : 1556378640015,
+        "duration" : 2996
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "tabName",
+        "value" : "Маркет"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Перейти в раздел",
+      "time" : {
+        "start" : 1556378640016,
+        "stop" : 1556378643179,
+        "duration" : 3163
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "tabName",
+        "value" : "Электроника"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Перейти в категорию",
+      "time" : {
+        "start" : 1556378643180,
+        "stop" : 1556378647642,
+        "duration" : 4462
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sectonName",
+        "value" : "Мобильные телефоны"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Установить чекбокс на производителе",
+      "time" : {
+        "start" : 1556378647643,
+        "stop" : 1556378647923,
+        "duration" : 280
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "manufacturer",
+        "value" : "Apple"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Заполнить поле \"Цена от\"",
+      "time" : {
+        "start" : 1556378647924,
+        "stop" : 1556378648473,
+        "duration" : 549
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "pf",
+        "value" : "60000"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Запомнить название товара под номером:",
+      "time" : {
+        "start" : 1556378652482,
+        "stop" : 1556378652612,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "number",
+        "value" : "1"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Выбрать товар из списка под номером:",
+      "time" : {
+        "start" : 1556378652613,
+        "stop" : 1556378655965,
+        "duration" : 3352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "number",
+        "value" : "1"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Получить название товара на странице товара",
+      "time" : {
+        "start" : 1556378655965,
+        "stop" : 1556378657395,
+        "duration" : 1430
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "MangoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Apple"
+  }, {
+    "name" : "suite",
+    "value" : "MangoTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-aleksandr.local"
+  }, {
+    "name" : "thread",
+    "value" : "52795@MacBook-Pro-aleksandr.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c00748490392894.json",
+  "parameterValues" : [ ]
+}

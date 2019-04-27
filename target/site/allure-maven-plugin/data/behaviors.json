@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Apple",
+    "uid" : "3c00748490392894",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1556378636827,
+      "stop" : 1556378657401,
+      "duration" : 20574
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Beats",
+    "uid" : "96666d577588af5a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1556378657724,
+      "stop" : 1556378676554,
+      "duration" : 18830
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,224 @@
+{
+  "uid" : "96666d577588af5a",
+  "name" : "Beats",
+  "fullName" : "MangoTest.Beats",
+  "historyId" : "2eb2922438ee643e1f11d9b6aa8af5e6",
+  "time" : {
+    "start" : 1556378657724,
+    "stop" : 1556378676554,
+    "duration" : 18830
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Перейти в раздел",
+      "time" : {
+        "start" : 1556378657724,
+        "stop" : 1556378659484,
+        "duration" : 1760
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "tabName",
+        "value" : "Маркет"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Перейти в раздел",
+      "time" : {
+        "start" : 1556378659485,
+        "stop" : 1556378662378,
+        "duration" : 2893
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "tabName",
+        "value" : "Электроника"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Перейти в категорию",
+      "time" : {
+        "start" : 1556378662378,
+        "stop" : 1556378667452,
+        "duration" : 5074
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sectonName",
+        "value" : "Наушники и Bluetooth-гарнитуры"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Установить чекбокс на производителе",
+      "time" : {
+        "start" : 1556378667452,
+        "stop" : 1556378667656,
+        "duration" : 204
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "manufacturer",
+        "value" : "Beats"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Заполнить поле \"Цена от\"",
+      "time" : {
+        "start" : 1556378667656,
+        "stop" : 1556378668013,
+        "duration" : 357
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "pf",
+        "value" : "17000"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Заполнить поле \"Цена до\"",
+      "time" : {
+        "start" : 1556378668014,
+        "stop" : 1556378668333,
+        "duration" : 319
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "pt",
+        "value" : "25000"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Запомнить название товара под номером:",
+      "time" : {
+        "start" : 1556378672338,
+        "stop" : 1556378672392,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "number",
+        "value" : "1"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Выбрать товар из списка под номером:",
+      "time" : {
+        "start" : 1556378672392,
+        "stop" : 1556378676503,
+        "duration" : 4111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "number",
+        "value" : "1"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Получить название товара на странице товара",
+      "time" : {
+        "start" : 1556378676504,
+        "stop" : 1556378676554,
+        "duration" : 50
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "MangoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Beats"
+  }, {
+    "name" : "suite",
+    "value" : "MangoTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-aleksandr.local"
+  }, {
+    "name" : "thread",
+    "value" : "52795@MacBook-Pro-aleksandr.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96666d577588af5a.json",
+  "parameterValues" : [ ]
+}

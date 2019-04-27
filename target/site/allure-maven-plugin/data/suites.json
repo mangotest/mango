@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "MangoTest",
+    "children" : [ {
+      "name" : "Apple",
+      "uid" : "3c00748490392894",
+      "parentUid" : "4ed32728dd7d2849d74917b05e07d121",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556378636827,
+        "stop" : 1556378657401,
+        "duration" : 20574
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Beats",
+      "uid" : "96666d577588af5a",
+      "parentUid" : "4ed32728dd7d2849d74917b05e07d121",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556378657724,
+        "stop" : 1556378676554,
+        "duration" : 18830
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4ed32728dd7d2849d74917b05e07d121"
+  } ]
+}

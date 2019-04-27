@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "",
+    "children" : [ {
+      "name" : "Apple",
+      "uid" : "3c00748490392894",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556378636827,
+        "stop" : 1556378657401,
+        "duration" : 20574
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Beats",
+      "uid" : "96666d577588af5a",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556378657724,
+        "stop" : 1556378676554,
+        "duration" : 18830
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be5e18e41bf32fca5cace70290d883bb"
+  } ]
+}
